@@ -1,5 +1,11 @@
 body{
   background:red;
   font-size:2em;
+  margin:20px;
+  padding:30px;
+<<<<<<< HEAD
   margin: 50ppx;
+=======
+  padding: 20px;
+>>>>>>> feature-c
 }
